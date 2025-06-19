@@ -4,8 +4,8 @@ body{
    
 }
 .container{
-    max-width: 100%;
-    height:360px;
+    width: 100vw;
+    height:70vh;
     background-color: #ffcd9e;
     padding: 30px;
     padding-right: 30px;
@@ -13,8 +13,8 @@ body{
     display: flex;
 }
 .footer{
-    max-width: 100%;
-    height: 155px;
+    width: 100vw;
+    height: 30vh;
     background-color:#282828;
     padding: 30px;
     padding-right: 30px;
